@@ -79,3 +79,5 @@ double f0(double x) {
 double f1(double x) {
 	return -2 * x / (x*x + 1) / (x*x + 1);
 }
+
+//test modify a file through git 
